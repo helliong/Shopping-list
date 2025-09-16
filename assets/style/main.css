@@ -39,7 +39,7 @@
     margin-bottom: 10px;
 }
 
-.container #add-item:hover {
+.container #add-button:hover {
     background-color: #218838;
 }
 
@@ -101,4 +101,5 @@
 
 li select {
     margin-left: 10px;
+
 }
